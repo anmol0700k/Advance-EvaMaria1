@@ -427,7 +427,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
             InlineKeyboardButton('⚡Channel⚡', url='https://t.me/MafiasNetwork'),
-            InlineKeyboardButton('🤖Updates🤖', url='{script.HOME_BUTTONURL_UPDATES}')
+            InlineKeyboardButton('⚡Group⚡', url='https://t.me/Movies7Zone')
         ], [
             InlineKeyboardButton('♻️Help♻️', callback_data='help'),
             InlineKeyboardButton('♻️About♻️', callback_data='about')
